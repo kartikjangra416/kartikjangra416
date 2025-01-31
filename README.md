@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @kartikjangra416
-- 👀 I’m interested in software and web development and entrepreneurship and building new startup
-- 🌱 I’m currently learning java , data science and business models and ways to grow business
-- 💞️ I’m looking to collaborate on many things specially in startups and software and web developments groups
-- 📫 How to reach me - mail me at kartikjangra416@gmail.com
-- ⚡ Fun fact:  i like to work.
+
+
 
 
 <!---
