@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kartikjangra416
+- 👋 Hi, I’m kartik
 
 
 
